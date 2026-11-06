@@ -66,8 +66,9 @@ body {
 
 /* ===== 見出し ===== */
 .news__title {
+color: #16aa2c;
   margin: 0 0 24px;
-  font-size: 24px;
+  font-size: 35px;
   text-align: center;
 }
 
